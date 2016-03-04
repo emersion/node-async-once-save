@@ -1,0 +1,27 @@
+{
+  "name": "async-once-save",
+  "version": "0.1.0",
+  "description": "Execute an async function once and save the result",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emersion/node-async-once-save.git"
+  },
+  "keywords": [
+    "async",
+    "once",
+    "callback",
+    "asynchronous",
+    "one",
+    "time"
+  ],
+  "author": "emersion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emersion/node-async-once-save/issues"
+  },
+  "homepage": "https://github.com/emersion/node-async-once-save#readme"
+}
