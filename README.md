@@ -1,6 +1,8 @@
 # node-async-once-save
 
-Execute an async function once and save the result
+Execute an async function once and save the result.
+
+The async function can be any function, unlike [`async-once`](https://www.npmjs.com/package/async-once).
 
 ## Usage
 
