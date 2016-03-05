@@ -29,6 +29,6 @@ asyncFunction(42, function (i, j) {
 });
 ```
 
-## Licence
+## License
 
 MIT
